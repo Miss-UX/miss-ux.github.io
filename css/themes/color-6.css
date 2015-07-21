@@ -1,0 +1,73 @@
+/* ==========================================================================
+	Theme Color: Black
+   ========================================================================== */
+   
+body {
+    background-color: #945738;
+}
+
+a {
+    color: #2E0000;
+}
+
+a:hover,
+a:focus {
+    color: #2E0000;
+}
+
+.btn-default {
+    border: 1px solid #945738;
+    background-color: #945738;
+}
+
+.btn-default:hover,
+.btn-default:focus {
+    border: 1px solid #2E0000;
+    background-color: #2E0000;
+}
+
+.navbar-custom a:hover {
+    color: #fff;
+}
+
+@media(min-width:767px) {
+    .top-nav-collapse {
+        background-color: #945738;
+    }
+}
+
+.service-section  .fa {
+	color: #945738;
+}
+
+.service-section  .fa:after {
+	box-shadow: 0 0 0 4px #945738;
+}
+
+.service-section-2  .fa:hover {
+	background: #945738;
+}
+
+.filters li a.selected {
+	background: #2E0000;
+}
+
+.filters li a:hover.selected {
+	background: #2E0000;
+}
+
+.filters li:hover a {
+	background: #2E0000;
+}
+
+.work-img {
+	background: #945738;
+}
+
+.work-img .button:hover {
+	background: #2E0000;
+}
+
+#credits  {
+	background-color: #2E0000;
+}
